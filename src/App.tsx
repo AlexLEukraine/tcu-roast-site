@@ -328,18 +328,18 @@ function Join() {
         <div className="mt-8 grid gap-12 md:grid-cols-12">
           <div className="md:col-span-6">
             <h2 className="font-display text-3xl font-bold leading-tight tracking-tight md:text-5xl">
-              Приведіть свій завод у <span className="thermal-text">спільноту</span>.
+              Вступи в наш <span className="thermal-text">гарячий клуб</span> скарг 🔥
             </h2>
             <p className="mt-6 max-w-md text-lg text-white/70">
-              Членство — це шість прозорих кроків. Без бюрократії: заявка, фахова співбесіда
-              та доступ до всіх можливостей кластера.
+              Всього 6 кроків до розчарування! Плюс: медитація, петиції і любові до державі.
+              Ми більше не обіцяємо — просто чесно розповідаємо! 😅
             </p>
             <div className="mt-8 flex flex-wrap gap-3.5">
               <a href={`mailto:${CONTACTS.email}`} className="rounded-full bg-orange px-6 py-3 font-semibold text-white transition-transform hover:-translate-y-0.5">
-                Подати заявку
+                Скарж нам! 🔥
               </a>
               <a href={`tel:${CONTACTS.phone.replace(/[^+\d]/g, '')}`} className="rounded-full border border-graphite-line px-6 py-3 font-semibold text-white transition-colors hover:bg-graphite-2">
-                {CONTACTS.phone}
+                Позвони й поговори 📞
               </a>
             </div>
           </div>
