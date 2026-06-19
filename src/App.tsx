@@ -79,9 +79,9 @@ function Hero() {
             <span className="text-ink-3">ГАРЯЧІ РОЗМОВИ · БЕЗ РЕЗУЛЬТАТІВ</span>
           </div>
           <h1 className="rise mt-6 font-display text-[2.5rem] font-extrabold leading-[1.04] tracking-tight sm:text-5xl md:text-6xl">
-            Гарячий<br />
-            <span className="thermal-text">повітря</span><br />
-            теплоенергетики
+            Танці<br />
+            <span className="thermal-text">коло</span><br />
+            узбіччя
           </h1>
           <p className="rise rise-2 mt-6 max-w-xl text-lg text-ink-2">
             Збираємось разом, щоб гарячо обговорювати проблеми, писати петиції і молитися газу. Один голос — ефективніший! 🙏
